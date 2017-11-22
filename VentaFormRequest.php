@@ -1,6 +1,6 @@
 <?php
 
-namespace sisVentas\Http\Requests;
+namespace App\Http\Requests;
 
 use sisVentas\Http\Requests\Request;
 

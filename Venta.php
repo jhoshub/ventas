@@ -1,6 +1,6 @@
 <?php
 
-namespace sisVentas;
+namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
